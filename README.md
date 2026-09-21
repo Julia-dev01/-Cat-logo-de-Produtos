@@ -167,5 +167,5 @@ Banco de Dados -> Back-End -> API -> fetch() -> State -> React -> Tela
 
 ## Integrantes
 
-- [Seu Nome]
-- [Nome da Dupla]
+- Júlia das Neves
+- Alexandre Brito
