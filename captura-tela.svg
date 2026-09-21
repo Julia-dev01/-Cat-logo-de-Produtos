@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="720" fill="url(#fundo)"/>
+  <text x="540" y="70" fill="#ffffff" font-size="34" font-weight="600" text-anchor="middle">Catálogo de Produtos e Clientes</text>
+  <text x="540" y="104" fill="#cbd5f5" font-size="16" text-anchor="middle">Visualize os produtos disponíveis e cadastre novos clientes em poucos cliques.</text>
+
+  <g>
+    <rect x="40" y="140" width="480" height="540" rx="14" fill="#ffffff"/>
+    <text x="64" y="182" fill="#0f172a" font-size="20" font-weight="600">Produtos disponíveis</text>
+    <line x1="64" y1="194" x2="496" y2="194" stroke="#f59e0b" stroke-width="3"/>
+    <g font-size="14" fill="#64748b">
+      <text x="64" y="232">NOME</text>
+      <text x="64" y="270">Categoria</text>
+      <text x="64" y="308">Preço (R$)</text>
+    </g>
+    <rect x="64" y="248" width="430" height="30" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <rect x="64" y="286" width="430" height="30" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <rect x="64" y="324" width="430" height="30" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <rect x="64" y="366" width="430" height="40" rx="8" fill="#2563eb"/>
+    <text x="279" y="391" fill="#ffffff" font-size="15" text-anchor="middle">Adicionar produto</text>
+
+    <g>
+      <rect x="64" y="430" width="430" height="90" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+      <rect x="64" y="430" width="5" height="90" rx="2" fill="#f59e0b"/>
+      <text x="84" y="460" fill="#0f172a" font-size="16" font-weight="600">Notebook</text>
+      <rect x="84" y="472" width="90" height="20" rx="10" fill="#dbeafe"/>
+      <text x="129" y="486" fill="#1d4ed8" font-size="11" text-anchor="middle">INFORMÁTICA</text>
+      <text x="84" y="510" fill="#15803d" font-size="16" font-weight="700">R$ 3.500,00</text>
+    </g>
+    <g>
+      <rect x="64" y="534" width="430" height="90" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+      <rect x="64" y="534" width="5" height="90" rx="2" fill="#f59e0b"/>
+      <text x="84" y="564" fill="#0f172a" font-size="16" font-weight="600">Cadeira Gamer</text>
+      <rect x="84" y="576" width="70" height="20" rx="10" fill="#dbeafe"/>
+      <text x="119" y="590" fill="#1d4ed8" font-size="11" text-anchor="middle">MÓVEIS</text>
+      <text x="84" y="614" fill="#15803d" font-size="16" font-weight="700">R$ 1.200,00</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="560" y="140" width="480" height="540" rx="14" fill="#ffffff"/>
+    <text x="584" y="182" fill="#0f172a" font-size="20" font-weight="600">Clientes cadastrados</text>
+    <line x1="584" y1="194" x2="1016" y2="194" stroke="#f59e0b" stroke-width="3"/>
+    <g font-size="14" fill="#64748b">
+      <text x="584" y="232">NOME</text>
+      <text x="584" y="270">E-mail</text>
+      <text x="584" y="308">Telefone</text>
+    </g>
+    <rect x="584" y="248" width="430" height="30" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <rect x="584" y="286" width="430" height="30" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <rect x="584" y="324" width="430" height="30" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+    <rect x="584" y="366" width="430" height="40" rx="8" fill="#2563eb"/>
+    <text x="799" y="391" fill="#ffffff" font-size="15" text-anchor="middle">Cadastrar cliente</text>
+
+    <g>
+      <rect x="584" y="430" width="430" height="92" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+      <rect x="584" y="430" width="5" height="92" rx="2" fill="#2563eb"/>
+      <text x="604" y="462" fill="#0f172a" font-size="16" font-weight="600">Maria Silva</text>
+      <text x="604" y="488" fill="#64748b" font-size="13">E-mail: maria@email.com</text>
+      <text x="604" y="510" fill="#64748b" font-size="13">Telefone: (11) 98888-7777</text>
+    </g>
+    <g>
+      <rect x="584" y="534" width="430" height="92" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+      <rect x="584" y="534" width="5" height="92" rx="2" fill="#2563eb"/>
+      <text x="604" y="566" fill="#0f172a" font-size="16" font-weight="600">João Souza</text>
+      <text x="604" y="592" fill="#64748b" font-size="13">E-mail: joao@email.com</text>
+      <text x="604" y="614" fill="#64748b" font-size="13">Telefone: (21) 97777-6666</text>
+    </g>
+  </g>
+</svg>
