@@ -159,12 +159,6 @@ Usuário -> Formulário React -> State -> fetch() POST -> API Express
 Banco de Dados -> Back-End -> API -> fetch() -> State -> React -> Tela
 ```
 
-## Captura de tela
-
-> A imagem abaixo é uma prévia ilustrativa da aplicação. Substitua por uma captura de tela real da execução (`docs/captura-tela.png`).
-
-![Captura de tela da aplicação](docs/captura-tela.svg)
-
 ## Integrantes
 
 - Júlia das Neves
